@@ -1,0 +1,9 @@
+{
+  "name": "test-bower-resolver",
+  "version": "1.0.0",
+  "keywords": ["bower-resolver"],
+  "main": "index.js",
+  "dependencies": {
+    "request": "^2.61.0"
+  }
+}
